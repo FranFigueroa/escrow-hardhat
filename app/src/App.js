@@ -56,7 +56,7 @@ function App() {
   return (
     <>
       <div className="contract">
-        <h1> New Contract </h1>
+        <h1 style ={{backgroundColor:'blue'}}> New Contract </h1>
         <label>
           Arbiter Address
           <input type="text" id="arbiter" />
